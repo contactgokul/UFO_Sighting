@@ -32,7 +32,7 @@ Used pure JavaScript, HTML, and CSS, and D3.js to display this information on th
 
 ### Dataset
 
-* [UFO Sightings Data](Code/static/js/data.js)
+* [UFO Sightings Data](static/js/data.js)
 
 - - -
 
